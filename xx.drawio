@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:47:29.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4raWKpWvaK7czK9XrAKp" version="20.2.8" type="device"><diagram id="Tv0-e5yDDcxMVYFDujWC" name="Page-1">7VhtT9swEP41/UiV16Z8pGkLaCAG1TZpX5CbmMTCiTPboYVfv3PjpkntDRAFoWmt2tjPne3z3XOXOAM/LtanHFX5JUsxHXhOuh7404HnuW7kwEUhjxpxHL9BMk5Sje2ABXnCW0WN1iTFoqcoGaOSVH0wYWWJE9nDEOds1Ve7Y7S/aoUybACLBFET/UFSmTfoOHR2+BkmWb5dGTbYSAq0VdaAyFHKVh3Inw38mDMmm1axjjFV3tv6pRk3/4O0NYzjUr5kgJ8eeWHGsi836UReXl1Mr6rro6iZ5QHRWm9YGysftx4AuyvVJKXEvER0IRnfOG2yyonEiwolSrwCAgCWy4JCz4XmEiX3GWd1mV7VkpISa9w0XO/lAXOJ1x1Ib+QUswJL/ggqWuqPtVM1rUaB7q92MXJ9jeWd+Iw0hjQtsnbqneegoZ33CkeODUeeFOiJlYDN4hvDqazxSNyy1gHH3LFSxowyvtHx4TtXFkwyjlKCd7KSKV9OhOTsHncG3G0+aiJCqW2iFIkcp3o15W0CRL9AS0y/MkEkAXP9aUHSVJnZKpxQkinBkknJChAgDSRYUaIfdBsn1L50ZrvbfS60L9QYAeqkzKDnq57mW7HOVE0ZopUIhhVnaZ3I80SZOKl40+jr4IQfhl1t1dLsCo5Ndo0t5Gpz/y3sQjfLn9mv6Prsli/PLzC+BzcfuQa7DEYhUTVMuiNrFeNuUCoGybuxKZwMwqkthKRocrobK2+HT0mRgeWULOEfPdUcqx0lrKhqiaH1nXBZI3p7iZIceC1uY4qEIMlQPGSHCko4DJ9N+tGxJeeDd4qK93xU+p6fgMFx84MoeLFChl5oAW1YZIKuqQYX17bCPmjDIhN0TTXV21rdB21YFJoW7492LaPdvdEb2r6pbIJsHo1nTtCRTQmHiZrCVzKuaLRfPadOGLvRX+vti+pqWz7366pk1TNFdT8puwVULWnkvrWGcixYzROsiyh07VXUO0zCBs6oX0Ut6RqNzXTdYgdPV99I128CPP0ht+Z2wB65/kkK1QIf6E7cHgM0h3zfUvLf6THPyqHAyiHxn0TvQiJxoNOC12eRZ3me+1AWhZ/zcQ5O2qUkEvY337D6cA9vnt+PQGSLQGC5F7xXBEafPgKncHKuDhiC/SPz2AnMEFhux+Fo6HQ/7qsjAt3dW46NrPOyyJ/9Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:50:49.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AxERzIfuB1NAJhFkzhLU" version="20.2.8" type="github">
+  <diagram id="Tv0-e5yDDcxMVYFDujWC" name="Page-1">
+    <mxGraphModel dx="1170" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3d-25gogKRdBtMOLDOpQ-7" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="640" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3d-25gogKRdBtMOLDOpQ-8" value="Amazon ECR" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecr;" parent="1" vertex="1">
+          <mxGeometry x="170" y="490" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aRbZgq7QH_rbILeekDce-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" parent="1" vertex="1">
+          <mxGeometry x="175.5" y="640" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="aRbZgq7QH_rbILeekDce-2" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" parent="1" vertex="1">
+          <mxGeometry x="406" y="440" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aRbZgq7QH_rbILeekDce-4" value="Users" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRbZgq7QH_rbILeekDce-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
+          <mxGeometry x="230" y="790" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aRbZgq7QH_rbILeekDce-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="380" y="804" width="68" height="56.00000000000001" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
